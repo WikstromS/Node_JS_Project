@@ -1,0 +1,23 @@
+{
+  "name": "nodejsproject",
+  "version": "1.0.0",
+  "description": "piina.net website",
+  "main": "app.js",
+  "dependencies": {
+    "sails": "^0.12.14"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WikstromS/Node_JS_Project.git"
+  },
+  "author": "Santeri Wikström, Jussi Ketomäki, Teemu Ruonti, Ilari Nikander, Arttu Seppä-Lassila",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WikstromS/Node_JS_Project/issues"
+  },
+  "homepage": "https://github.com/WikstromS/Node_JS_Project#readme"
+}
